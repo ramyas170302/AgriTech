@@ -1,4 +1,6 @@
-Project Idea: Smart Crop Recommendation System Using n8n Form 
+Team Name:TechTots
+
+Project : Smart Crop Recommendation System Using 
 
 Description:
     Farmers often struggle to choose the right crop due to varying soil conditions, water availability, local climate, and current market demand. Many digital tools are difficult for uneducated or semi-literate farmers because they require typing or technical knowledge.

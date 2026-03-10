@@ -9,7 +9,7 @@ Weather
 Market demand
 Email Node – Send recommendation to farmer
 
-Output Example
+Output Example (user comfortable language)
 
 English:
 Recommended Crop: Wheat, Maize

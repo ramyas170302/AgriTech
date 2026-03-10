@@ -10,6 +10,7 @@ Email
 Soil type (via checkboxes)
 Water availability (Normal, High, Low, No water)
 Location (typed by the farmer)
+language(kannada,english,hindi)
 
 The system uses n8n workflow and AI to recommend the most suitable crops based on:
 

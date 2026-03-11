@@ -1,0 +1,1 @@
+If API fails then sends the error message to the user.

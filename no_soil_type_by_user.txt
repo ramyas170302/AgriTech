@@ -1,0 +1,11 @@
+Solution:
+To solve this issue, we integrated Meteo API to fetch soil-related environmental data automatically.
+
+Implementation:
+1. Added Meteo API request in the n8n workflow.
+2. The system retrieves soil and environmental parameters based on location coordinates.
+3. If the user does not know the soil type, the system automatically fetches soil-related data from the API.
+4. The AI agent then uses this information to generate crop recommendations.
+
+Result:
+The system can still recommend crops even if the farmer does not know the soil type.
